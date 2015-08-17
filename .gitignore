@@ -1,0 +1,8 @@
+.DS_Store
+dagi/DAGI2M
+dagi/DAGI500
+dagi/DAGIREF
+deploy.sh
+dist
+node_modules
+

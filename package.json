@@ -1,0 +1,19 @@
+{
+  "name": "data-dagi",
+  "version": "1.0.0",
+  "description": "A set of tools for converting the DAGI shape files to various open formats",
+  "repository": "http://github.com/informeren/data-dagi",
+  "keywords": [
+    "data",
+    "dagi",
+    "kortforsyningen"
+  ],
+  "author": "Morten Wulff <wulff@ratatosk.net>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "~3.5.6",
+    "jsdom": "~3.1.2",
+    "topojson": "~1.6.19"
+  },
+  "devDependencies": {}
+}

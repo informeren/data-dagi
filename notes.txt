@@ -1,0 +1,25 @@
+https://stackoverflow.com/questions/28410553/select-function-not-working-in-3-5-4-version-of-d3-js
+http://bl.ocks.org/mbostock/4206573
+http://www.pyktech.com/blog/150/
+http://bost.ocks.org/mike/map/
+http://mapstarter.com/
+https://github.com/gagan-bansal/geojson2svg
+http://bl.ocks.org/milkbread/5885443
+https://github.com/mbostock/topojson/wiki/Command-Line-Reference
+
+jsdom 3.1.2
+d3 3.5.6
+topojson 1.6.19
+
+See also
+--------
+
+http://geo.oiorest.dk/ – if you need date in 1:10.000 scale in either JSON or XML format.
+http://www.linking.dk/lokalportaler/kommuner.html
+
+*Indeholder data fra Geodatastyrelsen, DAGI, august 2015. [Vilkår og betingelser](http://download.kortforsyningen.dk/content/vilkaar-og-betingelser).*
+
+https://drive.google.com/file/d/0B0ZnOPqJBVGTNExJT2VsbWREQlU/view?usp=sharing
+
+http://dk.okfn.org/2015/02/09/kort-over-valgsteder/
+http://dk.okfn.org/2015/02/05/kort-over-afstemningsomrader-frigives-efter-pres-fra-open-knowledge-danmark/
